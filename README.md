@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello there!
+
+I'm Austin Hargis. I am a Computer Science student at Grand Valley State University. Currently, I am working on a number of projects in school and outside. The project that I am currently most proud of is [hammer](https://github.com/austinhargis/hammer), an inventory management system that I am working on with the help of a friend. 
